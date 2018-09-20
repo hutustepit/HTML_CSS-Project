@@ -1,5 +1,5 @@
 
-# Projects for JavaScript Course 2018
+# Projects for HTML&CSS Course 2018
 [Step IT Academy, Bucharest](https://itstep.ro/)
 Trainer: @Dragos Dehelean
 Student: @Hutu Bogdan
